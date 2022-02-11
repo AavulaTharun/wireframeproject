@@ -12,13 +12,13 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-![output](./home.JPEG)
+![output](https://github.com/AavulaTharun/wireframeproject/blob/main/home.jpeg?raw=true)
 
 
 
-![output](./gallery.JPEG)
+![output](https://github.com/AavulaTharun/wireframeproject/blob/main/gallery.jpeg?raw=true)
 
-![output](./contact.JPEG)
+![output](https://github.com/AavulaTharun/wireframeproject/blob/main/contact.jpeg?raw=true)
 
 ## Result:
 

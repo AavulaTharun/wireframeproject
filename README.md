@@ -21,4 +21,5 @@ Write your design steps here
 ![output](./contact.JPEG)
 
 ## Result:
+
 Thus a wire frame is designed for a given website.
